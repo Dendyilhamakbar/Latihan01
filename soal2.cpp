@@ -20,7 +20,7 @@ int main (){
 		z=x*y;
 		cout<<"Luas Persegi panjang \t = " <<z<<" cm";
 	}
-	else if {}
+	else if (r=='S'|| r=='s'){
 	cout << "Menghitung Luas Segitiga"<<endl;
 	cout <<"\n";
 	cout <<"Masukkan nilai atas \t = ";cin>>x;
